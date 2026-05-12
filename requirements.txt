@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+jupyter
+notebook
+ipykernel
+pytest
+pytest-cov
+nltk
+textblob
+yfinance
+pynance
+TA-Lib
